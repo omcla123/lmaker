@@ -3,3 +3,5 @@
 its my first time use gitgub
 
 I love :coffee:,:pizza:,and :dancer:
+
+i like :swimmer:
